@@ -11,6 +11,11 @@
 - node 4.1.2
 - supervisor 3.0
 
+下载
+---
+
+https://hub.docker.com/r/philiptang/php/
+
 目录结构
 ------
 
