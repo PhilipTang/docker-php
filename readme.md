@@ -4,12 +4,12 @@
 软件和版本
 --------
 
-- php5.6
-- nginx1.6.2
-- mysql14.6
-- redis2.8.17
-- node4.1.2
-- supervisor3.0
+- php 5.6
+- nginx 1.6.2
+- mysql 14.6
+- redis 2.8.17
+- node 4.1.2
+- supervisor 3.0
 
 目录结构
 ------
